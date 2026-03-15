@@ -13,8 +13,7 @@
     </td>
     <td>
       <div align="center">
-        <img src="https://joaopauloaramuni.github.io/image/aramunilogo.png" alt="Logo do Projeto" width="120px"/>
-       
+        <img src="https://github.com/Miguelgdn1/my-portfolio/blob/main/Codigo/assets/reclameAqui.gif" alt="Logo do Projeto" width="400px"/>
       </div>
     </td>
   </tr>
@@ -44,7 +43,6 @@
 - [Estrutura de Pastas](#-estrutura-de-pastas)
 - [Demonstração](#-demonstração)
 - [Documentações Utilizadas](#-documentações-utilizadas)
-- [Autores](#-autores)
 - [Contribuição](#-contribuição)
 - [Licença](#-licença)
 
